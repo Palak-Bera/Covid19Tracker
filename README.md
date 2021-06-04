@@ -1,16 +1,16 @@
-# covid19
+# Covid19 Tracker
 
-A new Flutter project.
+A new Flutter project for A live trakcer for COVID19 stats across the Globe and all country around globe. It uses APIs so the data is live.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This simple project with clean UI for live tracker for COVID19 stats for different countries and stats for global data.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Screenshot](screenshots/01.JPG)
+![Screenshot](screenshots/02.JPG)
+![Screenshot](screenshots/03.JPG)
+![Screenshot](screenshots/04.JPG)
